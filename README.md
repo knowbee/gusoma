@@ -1,14 +1,11 @@
 # gusoma
 
 [![Build Status](https://travis-ci.org/knowbee/gusoma.svg?branch=master)](https://travis-ci.org/knowbee/gusoma)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a53c24458a68100cbd36/maintainability)](https://codeclimate.com/github/knowbee/gusoma/maintainability)
 [![npm](https://img.shields.io/npm/dt/gusoma.svg)](https://www.npmjs.com/package/gusoma)
 [![Dependency Status](https://david-dm.org/knowbee/gusoma.svg)](https://david-dm.org/knowbee/gusoma)
 [![npm](https://img.shields.io/npm/v/gusoma.svg)](https://www.npmjs.com/package/gusoma)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-[![NPM](https://nodei.co/npm/gusoma.png)](https://nodei.co/npm/gusoma/)
 
 This is a simple package that converts numbers in Rwandan native language (Ikinyarwanda)
 
