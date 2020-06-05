@@ -1,7 +1,7 @@
 {
   "name": "gusoma",
   "description": "This is a simple package that converts numbers in kinyarwanda (Rwandan native language)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "repository": {
